@@ -1,0 +1,6 @@
+   42 ./regex.py
+   62 ./script.py
+   52 ./woods.py
+   85 ./wds.py
+  188 ./gameset.py
+  429 total
